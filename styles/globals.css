@@ -14,3 +14,18 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.rød {
+  color: red;
+  font-weight: 700;
+}
+
+.blå {
+  color: blue;
+  font-weight: 700;
+}
+
+.svart {
+  color: black;
+  font-weight: 700;
+}
